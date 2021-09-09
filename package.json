@@ -1,8 +1,8 @@
 {
-  "name": "realtime-pizza",
+  "name": "pizza",
   "version": "1.0.0",
-  "description": "This is our relatime pizza app",
-  "main": "index.js",
+  "description": " pizza app",
+  "main": "server.js",
   "author": "JABED AKHTAR",
   "scripts": {
     "serve": "node server.js",
